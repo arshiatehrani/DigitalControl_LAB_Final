@@ -1,0 +1,83 @@
+{"datetime": "2022-07-01T10:57:19.411767Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "B"}}
+{"datetime": "2022-07-01T10:57:19.430769Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "The Yellows", "team_name_blue": "The Blues", "match_id": "1", "halftime": 1}}
+{"datetime": "2022-07-01T10:57:22.863282Z", "matchtime": 3.1360000000038326, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2022-07-01T10:57:26.063833Z", "matchtime": 6.144000000007509, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:57:29.860996Z", "matchtime": 9.536000000011654, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2022-07-01T10:57:33.055031Z", "matchtime": 12.54400000001533, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:57:37.035059Z", "matchtime": 16.064000000019632, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2022-07-01T10:57:40.386578Z", "matchtime": 19.07200000002331, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:57:43.961114Z", "matchtime": 22.400000000027376, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2022-07-01T10:57:47.080155Z", "matchtime": 25.408000000031052, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:57:50.488237Z", "matchtime": 28.608000000034963, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 5}}
+{"datetime": "2022-07-01T10:57:53.731797Z", "matchtime": 31.61600000003864, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:57:57.537387Z", "matchtime": 35.1040000000429, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 6}}
+{"datetime": "2022-07-01T10:58:00.895386Z", "matchtime": 38.11200000004658, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:58:04.531418Z", "matchtime": 41.408000000050606, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 7}}
+{"datetime": "2022-07-01T10:58:07.886584Z", "matchtime": 44.41600000005428, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:58:11.147673Z", "matchtime": 47.520000000058076, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 8}}
+{"datetime": "2022-07-01T10:58:14.384253Z", "matchtime": 50.52800000006175, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:58:17.437253Z", "matchtime": 53.37600000006523, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 9}}
+{"datetime": "2022-07-01T10:58:20.707766Z", "matchtime": 56.38400000006891, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:58:23.767767Z", "matchtime": 59.23200000007239, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 10}}
+{"datetime": "2022-07-01T10:58:26.932284Z", "matchtime": 62.240000000076066, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:58:30.535342Z", "matchtime": 65.44000000007998, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 11}}
+{"datetime": "2022-07-01T10:58:33.750980Z", "matchtime": 68.44800000008365, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:58:37.040485Z", "matchtime": 71.55200000008745, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 12}}
+{"datetime": "2022-07-01T10:58:40.349624Z", "matchtime": 74.56000000009112, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:58:44.252100Z", "matchtime": 78.20800000009558, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 13}}
+{"datetime": "2022-07-01T10:58:47.582101Z", "matchtime": 81.21600000009926, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:58:51.576643Z", "matchtime": 84.86400000010372, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 14}}
+{"datetime": "2022-07-01T10:58:54.846705Z", "matchtime": 87.87200000010739, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:58:58.847706Z", "matchtime": 91.52000000010554, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 15}}
+{"datetime": "2022-07-01T10:59:02.187741Z", "matchtime": 94.52800000010387, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:59:05.680773Z", "matchtime": 97.7280000001021, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 16}}
+{"datetime": "2022-07-01T10:59:09.030034Z", "matchtime": 100.73600000010043, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:59:12.522830Z", "matchtime": 103.84000000009871, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 17}}
+{"datetime": "2022-07-01T10:59:15.780915Z", "matchtime": 106.84800000009704, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:59:19.228429Z", "matchtime": 109.95200000009532, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 18}}
+{"datetime": "2022-07-01T10:59:22.529430Z", "matchtime": 112.96000000009366, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:59:26.249457Z", "matchtime": 116.35200000009178, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 19}}
+{"datetime": "2022-07-01T10:59:29.609940Z", "matchtime": 119.36000000009011, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:59:32.746460Z", "matchtime": 122.20800000008853, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 20}}
+{"datetime": "2022-07-01T10:59:35.915503Z", "matchtime": 125.21600000008686, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:59:39.541537Z", "matchtime": 128.54400000008502, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 21}}
+{"datetime": "2022-07-01T10:59:42.620603Z", "matchtime": 131.55200000008335, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:59:46.087670Z", "matchtime": 134.8800000000815, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 22}}
+{"datetime": "2022-07-01T10:59:49.370700Z", "matchtime": 137.88800000007984, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:59:52.718055Z", "matchtime": 140.99200000007812, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 23}}
+{"datetime": "2022-07-01T10:59:55.955539Z", "matchtime": 144.00000000007645, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:59:59.752059Z", "matchtime": 147.48800000007452, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 24}}
+{"datetime": "2022-07-01T11:00:03.021605Z", "matchtime": 150.49600000007285, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:00:06.423673Z", "matchtime": 153.69600000007108, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 25}}
+{"datetime": "2022-07-01T11:00:09.645306Z", "matchtime": 156.7040000000694, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:00:12.815133Z", "matchtime": 159.55200000006784, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 26}}
+{"datetime": "2022-07-01T11:00:15.956647Z", "matchtime": 162.56000000006617, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:00:19.318788Z", "matchtime": 165.66400000006445, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 27}}
+{"datetime": "2022-07-01T11:00:22.634397Z", "matchtime": 168.67200000006278, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:00:26.206501Z", "matchtime": 172.00000000006094, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 28}}
+{"datetime": "2022-07-01T11:00:29.527361Z", "matchtime": 175.00800000005927, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:00:32.936884Z", "matchtime": 178.1760000000575, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 29}}
+{"datetime": "2022-07-01T11:00:36.175948Z", "matchtime": 181.18400000005585, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:00:39.217948Z", "matchtime": 184.03200000005427, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 30}}
+{"datetime": "2022-07-01T11:00:42.472030Z", "matchtime": 187.0400000000526, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:00:45.972065Z", "matchtime": 190.24000000005083, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 31}}
+{"datetime": "2022-07-01T11:00:49.211580Z", "matchtime": 193.24800000004916, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:00:52.517607Z", "matchtime": 196.35200000004744, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 32}}
+{"datetime": "2022-07-01T11:00:55.812610Z", "matchtime": 199.36000000004577, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:00:59.130153Z", "matchtime": 202.46400000004405, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 33}}
+{"datetime": "2022-07-01T11:01:02.382192Z", "matchtime": 205.47200000004239, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:01:05.508193Z", "matchtime": 208.3200000000408, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 34}}
+{"datetime": "2022-07-01T11:01:08.760192Z", "matchtime": 211.32800000003914, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:01:12.520706Z", "matchtime": 214.8160000000372, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 35}}
+{"datetime": "2022-07-01T11:01:15.917153Z", "matchtime": 217.82400000003554, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:01:19.399667Z", "matchtime": 221.02400000003377, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 36}}
+{"datetime": "2022-07-01T11:01:22.587184Z", "matchtime": 224.0320000000321, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:01:26.385184Z", "matchtime": 227.52000000003017, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 37}}
+{"datetime": "2022-07-01T11:01:29.671745Z", "matchtime": 230.5280000000285, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:01:33.033258Z", "matchtime": 233.63200000002678, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 38}}
+{"datetime": "2022-07-01T11:01:36.333259Z", "matchtime": 236.6400000000251, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:01:39.664771Z", "matchtime": 239.7440000000234, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 39}}
+{"datetime": "2022-07-01T11:01:42.928051Z", "matchtime": 242.75200000002172, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:01:46.275052Z", "matchtime": 245.85600000002, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 40}}
+{"datetime": "2022-07-01T11:01:49.548051Z", "matchtime": 248.86400000001834, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T11:01:52.650637Z", "matchtime": 251.71200000001676, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 41}}

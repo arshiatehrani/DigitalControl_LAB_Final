@@ -1,0 +1,14 @@
+{"datetime": "2022-07-01T05:34:24.031053Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T05:34:24.085418Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "The Yellows", "team_name_blue": "The Blues", "match_id": "1", "halftime": 1}}
+{"datetime": "2022-07-01T05:34:30.245907Z", "matchtime": 5.952000000007274, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2022-07-01T05:34:33.300736Z", "matchtime": 8.96000000001095, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T05:34:36.753782Z", "matchtime": 12.384000000015135, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2022-07-01T05:34:39.813430Z", "matchtime": 15.392000000018811, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T05:34:43.293929Z", "matchtime": 18.752000000022917, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2022-07-01T05:34:46.402507Z", "matchtime": 21.760000000026594, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T05:34:49.432940Z", "matchtime": 24.76800000003027, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2022-07-01T05:34:52.471034Z", "matchtime": 27.776000000033946, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T05:34:55.389393Z", "matchtime": 30.656000000037466, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 5}}
+{"datetime": "2022-07-01T05:34:58.481685Z", "matchtime": 33.66400000004114, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T05:35:02.275808Z", "matchtime": 37.3120000000456, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 6}}
+{"datetime": "2022-07-01T05:35:05.321630Z", "matchtime": 40.320000000049276, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}

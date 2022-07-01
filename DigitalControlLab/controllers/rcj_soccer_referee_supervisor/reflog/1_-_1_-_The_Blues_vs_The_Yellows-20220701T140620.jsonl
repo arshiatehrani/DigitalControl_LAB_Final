@@ -1,0 +1,12 @@
+{"datetime": "2022-07-01T14:06:20.480833Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T14:06:20.510831Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "The Yellows", "team_name_blue": "The Blues", "match_id": "1", "halftime": 1}}
+{"datetime": "2022-07-01T14:06:23.541833Z", "matchtime": 2.8480000000034806, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2022-07-01T14:06:27.403801Z", "matchtime": 5.856000000007157, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T14:06:42.403835Z", "matchtime": 16.672000000020375, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-01T14:06:46.741436Z", "matchtime": 20.896000000025538, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-07-01T14:06:52.660865Z", "matchtime": 26.720000000032655, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-01T14:07:03.021989Z", "matchtime": 36.768000000044935, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-01T14:07:03.877841Z", "matchtime": 37.56800000004591, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-07-01T14:07:13.605436Z", "matchtime": 46.816000000057215, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-01T14:07:19.563714Z", "matchtime": 52.608000000064294, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-07-01T14:07:23.800512Z", "matchtime": 56.864000000069495, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}

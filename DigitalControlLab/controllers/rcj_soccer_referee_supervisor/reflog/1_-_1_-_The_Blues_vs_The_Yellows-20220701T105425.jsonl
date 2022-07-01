@@ -1,0 +1,14 @@
+{"datetime": "2022-07-01T10:54:25.639077Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:54:25.652176Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "The Yellows", "team_name_blue": "The Blues", "match_id": "1", "halftime": 1}}
+{"datetime": "2022-07-01T10:54:30.749154Z", "matchtime": 4.896000000005984, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2022-07-01T10:54:33.937856Z", "matchtime": 7.90400000000966, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:54:37.507773Z", "matchtime": 11.296000000013805, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2022-07-01T10:54:40.646313Z", "matchtime": 14.304000000017481, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:54:43.620245Z", "matchtime": 17.21600000002104, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2022-07-01T10:54:46.978821Z", "matchtime": 20.224000000024716, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:54:50.792673Z", "matchtime": 23.904000000029214, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2022-07-01T10:54:53.913030Z", "matchtime": 26.91200000003289, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:54:56.789120Z", "matchtime": 29.79200000003641, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 5}}
+{"datetime": "2022-07-01T10:54:59.943364Z", "matchtime": 32.800000000040086, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-07-01T10:55:17.970804Z", "matchtime": 43.584000000053265, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-01T10:55:22.404056Z", "matchtime": 47.84000000005847, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
